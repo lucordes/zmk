@@ -6,6 +6,6 @@
 if SHIELD_CRBN
 
 config ZMK_KEYBOARD_NAME
-	default "CRBN"
+	default "LUCORDES"
 
 endif
